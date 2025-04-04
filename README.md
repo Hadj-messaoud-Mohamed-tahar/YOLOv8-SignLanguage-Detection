@@ -1,2 +1,12 @@
-# YOLOv8-SignLanguage-Detection
- Un projet de détection de la langue des signes utilisant le modèle YOLOv8. Ce projet inclut l'entraînement d'un modèle à partir d'images capturées en temps réel et annotées, avec une segmentation des signes avant l'apprentissage. Le dépôt contient le modèle entraîné, un script pour l'utiliser et une vidéo de démonstration.
+# 📌 Projet : Détection de la Langue des Signes avec YOLOv8
+
+![ASL_Alphabet](https://github.com/user-attachments/assets/2829b30a-ff20-42d1-9c6e-e5fe75bfab6e)
+
+## 📖 Description
+Ce projet vise à détecter et reconnaître les signes de la langue des signes grâce à un modèle YOLOv8 entraîné sur des images capturées en temps réel. Il inclut :  
+- 📷 Collecte des données via une caméra avec OpenCV.  
+- 🏷 Annotation des images avec [DigitalSreeni](https://github.com/lien-vers-le-projet).  
+- 🔄 Conversion des annotations de COCO vers YOLO.  
+- ✂️ Segmentation des images.  
+- 🏋️ Entraînement du modèle YOLOv8.
+![ASL_Alphabet](https://github.com/user-attachments/assets/2829b30a-ff20-42d1-9c6e-e5fe75bfab6e)
