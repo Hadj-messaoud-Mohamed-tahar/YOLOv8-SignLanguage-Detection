@@ -1,0 +1,6 @@
+path: C:\Users\tahar\Desktop\sign_project\Nouveau dossier (2)  
+train: C:\Users\tahar\Desktop\sign_project\train1\images\train  
+val: C:\Users\tahar\Desktop\sign_project\train1\images\val      
+
+nc: 26 
+names: ["A", "B","C","D","E","F","G","H","I","J","K","L","M","N","O","P","Q","R","S","T","U","V","W","X","Y","Z"]
