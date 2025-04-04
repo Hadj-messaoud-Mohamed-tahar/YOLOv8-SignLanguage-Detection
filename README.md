@@ -9,4 +9,4 @@ Ce projet vise à détecter et reconnaître les signes de la langue des signes g
 - 🔄 Conversion des annotations de COCO vers YOLO.  
 - ✂️ Segmentation des images.  
 - 🏋️ Entraînement du modèle YOLOv8.
-![ASL_Alphabet](https://github.com/user-attachments/assets/2829b30a-ff20-42d1-9c6e-e5fe75bfab6e)
+
