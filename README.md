@@ -11,4 +11,4 @@ Ce projet vise à détecter et reconnaître les signes de la langue des signes g
 - ✂️ Segmentation des images.  
 - 🏋️ Entraînement du modèle YOLOv8.
 ## 🎥 Aperçu du modèle
-[Vidéo de démonstration]([chemin/vers/video.mp4](https://github.com/user-attachments/assets/4c7ffab4-69b4-4fdc-9fe1-6f931748afec))
+[Vidéo de démonstration](https://github.com/user-attachments/assets/4c7ffab4-69b4-4fdc-9fe1-6f931748afec)
